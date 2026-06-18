@@ -1,227 +1,87 @@
-# 🎵 Zonevaz
+# Zonevaz
 
-Official website of Zonevaz.
+Official music platform for Zonevaz.
 
-A modern digital music brand focused on lyrical storytelling, music discovery, artist promotion, and audience engagement.
+Zonevaz is a music-focused digital brand dedicated to lyrical storytelling, music discovery, creative releases, and audience engagement.
 
----
-
-## 🌐 Website
+## Website
 
 https://zonevaz.me
 
----
+## Purpose
 
-## About
+This website serves as the official online presence of Zonevaz, providing visitors with:
 
-Zonevaz is a music-focused digital platform designed to showcase:
+- Music releases
+- Lyrics
+- Streaming links
+- Artist information
+- Upcoming projects
+- Social media connections
+- Contact information
 
-- Original Lyrics
-- Music Releases
-- Artist Profiles
-- Streaming Links
-- Music News
-- Upcoming Projects
-- Brand Updates
+## Current Features
 
-The website acts as the central hub for the Zonevaz music ecosystem.
-
----
-
-## Features
-
-### Current
-
-- Responsive Website
-- Custom Domain
+- Landing Page
+- Brand Introduction
+- Responsive Design
+- Custom Domain Integration
 - GitHub Pages Hosting
-- Brand Landing Page
 
-### Planned
+## Planned Features
 
-- Artist Profiles
-- Music Release Archive
-- Streaming Platform Integration
-- Contact Forms
-- Newsletter System
-- Merchandise Store
-- Event Calendar
+### Music
 
----
+- Singles
+- Albums
+- Playlists
+- Lyrics Archive
 
-## Technology Stack
+### Artist
 
-| Technology | Purpose |
-|------------|----------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Interactivity |
-| GitHub Pages | Hosting |
-| GitHub | Version Control |
-| Cloudflare | DNS & Security |
+- Artist Profile
+- Biography
+- Creative Journey
 
----
+### Community
 
-## Repository Structure
+- Newsletter
+- Fan Updates
+- Social Links
 
-```text
-assets/
-pages/
-docs/
-index.html
-README.md
-CNAME
-```
+### Business
 
----
+- Contact Form
+- Collaborations
+- Partnerships
 
-## Local Development
+## Technology
 
-Clone repository:
-
-```bash
-git clone https://github.com/izynu/izynu.github.io.git
-```
-
-Open project:
-
-```bash
-cd izynu.github.io
-```
-
-Run locally:
-
-```bash
-start index.html
-```
-
----
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
 ## Deployment
 
-Every push to:
+This website is automatically deployed through GitHub Pages when changes are pushed to the `main` branch.
 
-```text
-main
-```
+## Domain
 
-automatically deploys the website through GitHub Pages.
+zonevaz.me
 
-Deployment URL:
+## Repository Structure
 
-```text
-https://izynu.github.io
-```
+/assets
+/pages
+/index.html
+/README.md
+/CNAME
 
-Custom Domain:
+## Future Vision
 
-```text
-https://zonevaz.me
-```
-
----
-
-## Branding
-
-Brand Name:
-
-```text
-Zonevaz
-```
-
-Category:
-
-```text
-Music Brand
-```
-
-Focus:
-
-```text
-Lyrics
-Music
-Creative Media
-Digital Presence
-```
-
----
-
-## Contribution Guidelines
-
-1. Create feature branch
-2. Commit changes
-3. Push branch
-4. Create Pull Request
-5. Review & Merge
-
----
-
-## Commit Convention
-
-```text
-feat: add artist section
-fix: mobile navbar bug
-docs: update readme
-style: improve landing page
-```
-
----
-
-## Security
-
-Never upload:
-
-- API Keys
-- Passwords
-- Private Tokens
-- Cloudflare Credentials
-
-Store sensitive information outside the repository.
-
----
-
-## Maintenance
-
-Monthly Checklist:
-
-- Update content
-- Check links
-- Verify domain
-- Optimize images
-- Review SEO
-
----
-
-## Future Roadmap
-
-### Phase 1
-
-- Landing Page
-- Branding
-- Responsive Design
-
-### Phase 2
-
-- Music Catalog
-- Artist Pages
-- Streaming Links
-
-### Phase 3
-
-- Fan Community
-- Merchandise
-- Events
-
-### Phase 4
-
-- Full Music Platform
-- User Accounts
-- AI Recommendations
-
----
+Zonevaz aims to become a complete music ecosystem connecting listeners with meaningful music, stories, and creative experiences.
 
 ## License
 
-Copyright © Zonevaz
-
-All Rights Reserved.
+All Rights Reserved © Zonevaz
